@@ -15,6 +15,7 @@ This project is a responsive music website that allows users to explore playlist
 - HTML5
 - CSS3 (Bootstrap Icons)
 - JavaScript
+- php
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/iamteerath/music-website.git`
@@ -45,10 +46,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - JavaScript Libraries 
 
 **Author:**
-[Your Name](https://github.com/iamteerth)
+[Teerath Kundu](https://github.com/iamteerth)
 
 **Contact:**
-For any inquiries or feedback, please contact [your@email.com](mailto:your@email.com).
+For any inquiries or feedback, please contact [tknic1482@email.com](mailto:tknic1482@email.com).
 
 **Acknowledgements:**
 - Special thanks to [sonu](https://github.com/GeniousSonu) for some Correction and Fork.
